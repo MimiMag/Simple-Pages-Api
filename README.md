@@ -8,3 +8,7 @@ In this project, I am building a simple REST-API using TypeScript, Routing-Contr
 3. Add a couple of users/pages to your postgres db
 4. Run yarn start
 5. Enjoy!
+
+
+
+> _This Repository is created by Mimi Magusin. Her personal profile can be found [here](https://github.com/MimiMagusin), her Codaisseur Profile can be found [here](https://github.com/MimiMag)_
